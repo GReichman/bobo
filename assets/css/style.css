@@ -1,0 +1,56 @@
+body{
+    background-image: url("../pictures/bg.jpg");
+}
+.container{
+    background-color:rgba(255, 255, 255, 0.3);
+
+}
+
+a{
+text-decoration: none;
+}
+a:hover{
+text-decoration: none;
+}
+
+.contentRow{
+    margin-top:50px;
+    background-color: inherit;
+}
+
+.contentCol{
+    margin-top:10px;
+    width: 100%;
+    background-color: inherit;
+    padding:0px;
+    text-align: center;
+}
+
+.homeCard{
+    width: 100%;
+    background-color: inherit;
+    border:none
+}
+
+#homePic{
+    height: 30%;
+    width:30%;
+}
+
+.homeCardBody{
+    background-color: inherit;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.galCard{
+    height: 100%;
+}
+
+.galleryImg{
+    margin-top:10%;
+    height:50%;
+    width:40%;
+}
+
